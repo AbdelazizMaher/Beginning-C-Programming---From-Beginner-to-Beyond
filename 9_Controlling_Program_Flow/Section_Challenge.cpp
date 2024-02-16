@@ -31,7 +31,7 @@ int main()
                 std::cout << "[ ";
                 for(auto num : List)
                     std::cout << num << " ";
-                std::cout << " ]" << std::endl;    
+                std::cout << "]" << std::endl;    
             }
             break; 
         case 'A':
